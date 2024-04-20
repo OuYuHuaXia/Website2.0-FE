@@ -5,15 +5,16 @@
   <br />
   <br />
 
-  ![license](https://img.shields.io/github/license/OuYuHuaXia/Website2.0-FE)
-  ![language](https://img.shields.io/github/languages/top/OuYuHuaXia/Website2.0-FE)
-  ![last](https://img.shields.io/github/last-commit/OuYuHuaXia/Website2.0-FE)
+![license](https://img.shields.io/github/license/OuYuHuaXia/Website2.0-FE)
+![language](https://img.shields.io/github/languages/top/OuYuHuaXia/Website2.0-FE)
+![last](https://img.shields.io/github/last-commit/OuYuHuaXia/Website2.0-FE)
 
-  <a href="#" target="_blank">在线体验</a>
-  ·
-  <a href="https://github.com/OuYuHuaXia/Website2.0-FE/issues">报告Bug</a>
-  ·
-  <a href="https://github.com/OuYuHuaXia/Website2.0-FE/issues">提出新特性</a>
+<a href="#" target="_blank">在线体验</a>
+·
+<a href="https://github.com/OuYuHuaXia/Website2.0-FE/issues">报告Bug</a>
+·
+<a href="https://github.com/OuYuHuaXia/Website2.0-FE/issues">提出新特性</a>
+
 </div>
 
 ## 🔖 项目导览
