@@ -1,4 +1,5 @@
 <div align="center">
+  <img width="130" src="https://github.com/OuYuHuaXia.png" alt="OuYuHuaXia logo">
   <h1 align="center">偶遇华夏 网站2.0</h1>
   <h3>两岸木偶文化的创新型传承与弘扬</h3>
   <a href="https://github.com/OuYuHuaXia/Website2.0-FE"><strong>探索项目文档 »</strong></a>
