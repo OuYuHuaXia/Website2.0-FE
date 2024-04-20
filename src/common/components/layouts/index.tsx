@@ -12,7 +12,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
 
   return (
     <>
-      <div className="bg-bgDefault flex h-dvh flex-col">
+      <div className="flex h-dvh flex-col bg-bgDefault">
         <main className="flex-1 transition-all duration-300">{children}</main>
       </div>
     </>
