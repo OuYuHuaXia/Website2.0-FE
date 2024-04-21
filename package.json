@@ -24,6 +24,7 @@
   },
   "dependencies": {
     "@emotion/styled": "^11.11.5",
+    "framer-motion": "^11.1.7",
     "next": "14.2.2",
     "next-themes": "^0.3.0",
     "react": "^18",
@@ -31,7 +32,8 @@
     "sass": "^1.75.0",
     "styled-components": "^6.1.8",
     "tailwind-merge": "^2.3.0",
-    "tailwind-scrollbar-hide": "^1.1.7"
+    "tailwind-scrollbar-hide": "^1.1.7",
+    "zustand": "^4.5.2"
   },
   "devDependencies": {
     "@types/node": "^20",
