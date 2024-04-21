@@ -9,7 +9,7 @@ const Menu_ITEMS = [
 
 const Menu: React.FC = () => {
   return (
-    <nav className="absolute left-[23%] flex h-full w-auto items-center">
+    <nav className="absolute left-[250px] flex h-full w-auto items-center xl:left-[20%]">
       <ul className="flex">
         {Menu_ITEMS.map((item, index) => (
           <MenuItem key={index} href={item.href} value={item.value} />
